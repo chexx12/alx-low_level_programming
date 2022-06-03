@@ -2,6 +2,7 @@
 
 /**
 * main - print the word written
+* Return: 0 if exited properly, non-zero otherwise
 */
 
 int main(void)
