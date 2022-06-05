@@ -4,9 +4,8 @@
 
 
 /**
-*main : asign a random number to the variable n each time it is executed and print out
-*based a condition
-*Return : always 0
+*main - asign a random number to the variable n each time it is executed and print out
+*Return : 0 if exited properly, non-zero otherwise
 */
 
 
