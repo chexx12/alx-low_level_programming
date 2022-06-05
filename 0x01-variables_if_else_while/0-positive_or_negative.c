@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* main - prints a random number to the variable n each time it is executed and print out
+* main - assign a random number to the variable
 * Return: 0 if exited properly, non-zero otherwise
 */
 int main(void)
