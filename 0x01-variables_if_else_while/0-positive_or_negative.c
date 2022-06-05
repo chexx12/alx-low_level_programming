@@ -4,7 +4,7 @@
 
 
 /**
-*main -> asign a random number to the variable n each time it is executed and print out
+*main : asign a random number to the variable n each time it is executed and print out
 *based a condition
 *Return : always 0
 */
