@@ -2,16 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-
 /**
 * main - prints a random number to the variable n each time it is executed and print out
 * Return: 0 if exited properly, non-zero otherwise
 */
-
-
 int main(void)
 {
-
 	int n;
 
 	srand(time(0));
